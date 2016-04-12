@@ -1,5 +1,11 @@
 package capitulo1;
 
+/**
+ * Programa de exercício de leitura de código, não irei comentar nada mais que isso.
+ * 
+ * @author rafael
+ *
+ */
 public class Shuffle1 {
 
 	public static void main(String[] args) {
